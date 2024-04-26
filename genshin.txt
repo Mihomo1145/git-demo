@@ -4,3 +4,7 @@ play genshin
 你玩原神吗
 
 hot-fix
+
+hotFix() {
+
+}
