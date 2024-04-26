@@ -6,5 +6,6 @@ play genshin
 hot-fix
 
 master() {
+hotFix() {
 
 }
